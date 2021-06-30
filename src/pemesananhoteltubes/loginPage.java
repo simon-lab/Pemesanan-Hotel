@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Afrian Luthfan
+ * @author Hadi
  */
 public class loginPage extends javax.swing.JFrame {
     Koneksi conn;
